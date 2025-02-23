@@ -150,3 +150,6 @@ button:focus {
 .container.active .toggle-right {
     transform: translateX(200%);
 }
+p{
+    text-align:centre;
+}
